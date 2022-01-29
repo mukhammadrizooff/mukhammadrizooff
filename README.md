@@ -3,11 +3,11 @@
 # Hi there 👋, I am Muhammad Rizo
 ## Skills: 
 
-- 🔭 I’m currently working on my self 
-- 🌱 I’m currently learning Creative JavaScript 
-- 👯 I’m looking to collaborate on new partners 
-- 🤔 I’m looking for help with solve JavaScript challenge 
-- 💬 Ask me about Software Development 
+- 🔭 I'm working on myself now.
+- 🌱 I am currently studying Creative JavaScript
+- 👯 I love working with new partners.
+- 🤔 I will help you solve the JavaScript problem
+- 💬 Ask me about software development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
