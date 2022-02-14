@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://github.com/mukhammadrizooff/mukhammadrizooff/blob/main/2022-01-26_02-06-24.png)
-
+![Profile views](https://gpvc.arturio.dev/mukhammadrizooff)  
 # Hi there 👋, I am Muhammad Rizo
 ## Skills: 
 
