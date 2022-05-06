@@ -20,7 +20,16 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mukhammadrizooff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mukhammadrizooff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mukhammadrizo.abdunazarov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mukhammadrizooff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mukhammadrizooff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mukhammadrizooff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/mukhammadrizooff)  
 
 ## Profile Informations
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadrizooff)](https://github.com/anuraghazra/github-readme-stats)   ![Mukhammadrizo's github stats](https://github-readme-stats.vercel.app/api?username=mukhammadrizooff)  
+<hr>
+<br>
+<p align="center">
+   <a href="https://github.com/mukhammadrizooff">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadrizooff&layout=compact&langs_count=12&theme=graywhite"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mukhammadrizooff&show_icons=true&theme=default)" alt="mukhammadrizooff" />
+  </a>
+</p>
+<hr>
+<br>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mukhammadrizooff)  
 
