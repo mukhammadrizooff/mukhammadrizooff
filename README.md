@@ -24,8 +24,8 @@
 <br>
 <p align="center">
    <a href="https://github.com/mukhammadrizooff">
-  <img width="300em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadrizooff&layout=compact&langs_count=12&theme=graywhite"/>
-  <img width="300em" height="200em" src="https://github-readme-stats.vercel.app/api?username=mukhammadrizooff&show_icons=true&theme=default)" alt="mukhammadrizooff" />
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadrizooff&layout=compact&langs_count=12&theme=graywhite"/>
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=mukhammadrizooff&show_icons=true&theme=default)" alt="mukhammadrizooff" />
   </a>
 </p>
 <hr>
